@@ -1,0 +1,10 @@
+name: LimitVillagers
+version: 1.1
+description: Plugin to limit the number of villagers per chunk
+author: cindy_k
+main: com.minecats.cindyk.limitvillagers.LimitVillagers
+commands:
+    limitvillagers:
+        description: Reload config
+        usage: /limitvillagers reload
+
