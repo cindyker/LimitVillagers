@@ -1,0 +1,15 @@
+MaxVillagersPerChunk: 50
+NoSpawnWorlds: true
+WorldsList:
+- mine_world
+NoSpawnMobs:
+- RABBIT
+- COW
+- MOOSHROOM
+- SHEEP
+- PIG
+- HORSE
+- VILLAGER
+- CHICKEN
+- OCELOT
+
